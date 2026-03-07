@@ -1,0 +1,10 @@
+Looking in indexes: https://mirrors.aliyun.com/pypi/simple/
+Requirement already satisfied: packaging in D:\AnaConda\envs\AI_demo\Lib\site-packages (23.2)
+Collecting packaging
+  Downloading https://mirrors.aliyun.com/pypi/packages/b7/b9/c538f279a4e237a006a2c98387d081e9eb060d203d8ed34467cc0f0b9b53/packaging-26.0-py3-none-any.whl (74 kB)
+Installing collected packages: packaging
+  Attempting uninstall: packaging
+    Found existing installation: packaging 23.2
+    Uninstalling packaging-23.2:
+      Successfully uninstalled packaging-23.2
+Successfully installed packaging-26.0
