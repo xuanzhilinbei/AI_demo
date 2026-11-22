@@ -55,7 +55,7 @@ from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_excep
 
 # ============================ 全局配置 ============================
 # 1. 密钥配置
-dashscope_key = os.getenv("DASHSCOPE_API_KEY", "sk-f3c433e34d9945bd9cedb8574eb7e241")
+dashscope_key = os.getenv("DASHSCOPE_API_KEY", "你的APPKEY")
 embedding_key = os.getenv("DASHSCOPE_EMBEDDING_KEY", dashscope_key)
 
 # 2. 路径配置
